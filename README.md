@@ -1,4 +1,5 @@
 # sql-table-to-json
+https://www.nuget.org/packages/RiverOx.Utility/
 Convert SQL DataTable SQL Datatable to JSON format. 
 Allowed converstion in this version 1.0.1:
 A{}
