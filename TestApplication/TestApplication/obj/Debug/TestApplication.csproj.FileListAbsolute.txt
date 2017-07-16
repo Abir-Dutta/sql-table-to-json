@@ -1,0 +1,10 @@
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\RiverOx.Utility.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\RiverOx.Utility.pdb
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.xml
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb

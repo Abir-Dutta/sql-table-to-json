@@ -1,0 +1,10 @@
+\\us.cbre.net\viewdata\users\adutta\documents\visual studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\RiverOx_SQL_Table_2_JSON.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\Newtonsoft.Json.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\RiverOx_SQL_Table_2_JSON.pdb
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\Newtonsoft.Json.xml
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.csprojResolveAssemblyReference.cache
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.exe
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.pdb

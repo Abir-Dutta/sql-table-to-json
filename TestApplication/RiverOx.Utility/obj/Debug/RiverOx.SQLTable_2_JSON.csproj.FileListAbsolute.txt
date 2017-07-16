@@ -1,0 +1,6 @@
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\RiverOx_SQL_Table_2_JSON\bin\Debug\RiverOx_SQL_Table_2_JSON.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\RiverOx_SQL_Table_2_JSON\bin\Debug\RiverOx_SQL_Table_2_JSON.pdb
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\RiverOx_SQL_Table_2_JSON\bin\Debug\Newtonsoft.Json.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\RiverOx_SQL_Table_2_JSON\bin\Debug\Newtonsoft.Json.xml
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\RiverOx_SQL_Table_2_JSON\obj\Debug\RiverOx_SQL_Table_2_JSON.dll
+\\us.cbre.net\ViewData\Users\adutta\Documents\Visual Studio 2013\Projects\ConsoleApplication10\RiverOx_SQL_Table_2_JSON\obj\Debug\RiverOx_SQL_Table_2_JSON.pdb
